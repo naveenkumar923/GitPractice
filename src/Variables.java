@@ -19,6 +19,7 @@ public class Variables {
 			System.out.println("False");
 		}
 		System.out.println("learning git");
+		System.out.println("practicing commit and push in git");
 
 	}
 
