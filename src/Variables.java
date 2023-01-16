@@ -22,6 +22,10 @@ public class Variables {
 		System.out.println("practicing commit and push in git");
 		System.out.println("created new branch orsonata");
 		System.out.println("switched to branch orsonata");
+<<<<<<< HEAD
+=======
+
+>>>>>>> 781a2155a5d41888750f7f668ec9e92d2981f8a9
 	}
 
 }
